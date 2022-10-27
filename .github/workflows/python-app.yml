@@ -31,4 +31,4 @@ jobs:
     - name: Execute execute-me.* files
       run: |
         python execute-me.py
-        bash execute-me.sh
+        bash other/execute-me.sh
